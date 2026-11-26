@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Norzareth
-- 👀 I’m interested in Woman
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on sleeping
 - 📫 How to reach me: find me
-- 😄 Pronouns: fight/me
+- 😄 Pronouns: its/me
 - ⚡ Fun fact: yes
 
 <!---
